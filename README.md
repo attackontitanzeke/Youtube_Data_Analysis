@@ -5,9 +5,7 @@
 This project focuses on analyzing YouTube data to uncover insights about channels, videos, and user engagement.  
 The data was **collected using the YouTube Data API v3**, allowing real-time extraction of channel and video details.  
 Using Python and popular data analysis libraries, I performed data cleaning, transformation, visualization, and interpreted key metrics.
-
 ---
-
 ## 🛠️ Tools & Technologies Used:
 - Python 🐍
 - YouTube Data API v3 🌐
@@ -16,9 +14,7 @@ Using Python and popular data analysis libraries, I performed data cleaning, tra
 - Matplotlib 📈
 - Seaborn 🎨
 - Jupyter Notebook 📓
-
 ---
-
 ## 🔥 Key Features:
 - Web scraped live YouTube data via **YouTube Data API v3**.
 - Imported and preprocessed raw YouTube data for analysis.
@@ -28,9 +24,7 @@ Using Python and popular data analysis libraries, I performed data cleaning, tra
   - Most viewed videos 🎥
   - Category-wise performance 🎯
 - Derived actionable business insights to help optimize content strategies.
-
 ---
-
 ## 📷 Sample Visualizations:
 - 📊 Bar charts showing top channels by subscriber count.
 - 🔥 Heatmaps analyzing correlation between views, likes, and comments.
