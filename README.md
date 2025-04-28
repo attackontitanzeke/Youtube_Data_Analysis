@@ -38,35 +38,7 @@ Using Python and popular data analysis libraries, I performed data cleaning, tra
 
 ---
 
-## 🚀 How to Run:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/codealpha_tasks.git
-   ```
-2. Open the `Youtube Analysis.ipynb` file using Jupyter Notebook, Google Colab, or any IDE that supports `.ipynb` files.
-3. Ensure your environment has the required libraries installed:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-4. Run all cells to reproduce the web scraping, analysis, and visualizations.
-
----
-
-## 🏆 Benefits:
-- Internship Certificate
-- Letter of Recommendation (LoR)
-- Exclusive goodies for Top 10 performers
-
----
-
 ## 📚 Conclusion:
 This project enhanced my skills in **APIs**, **data collection**, **data analysis**, and **data visualization**.  
 Working with real-world YouTube data allowed me to simulate a real data-driven decision-making process for content optimization and channel growth strategies.
 
----
-
-## 📬 Connect with Me:
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
-
----
