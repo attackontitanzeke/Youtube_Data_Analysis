@@ -26,9 +26,12 @@ Using Python and popular data analysis libraries, I performed data cleaning, tra
 - Derived actionable business insights to help optimize content strategies.
 
 ## 📷 Sample Visualizations:
-- 📊 Bar charts showing top channels by subscriber count.
-- 🔥 Heatmaps analyzing correlation between views, likes, and comments.
-- 🎯 Pie charts representing category distributions across genres.
+
+![Top Channels](https://github.com/user-attachments/assets/ce8eb4b6-3aec-407d-9c01-a3d022bbd5a9)
+
+![Most Viewed Videos](https://github.com/user-attachments/assets/8ae6d42d-7a77-4e9f-829c-515182035d7c)
+
+![Category Distribution](https://github.com/user-attachments/assets/d88de8b4-0246-4eae-925f-870c3c5e3130)
 
 ## 📚 Conclusion:
 This project enhanced my skills in **APIs**, **data collection**, **data analysis**, and **data visualization**.  
